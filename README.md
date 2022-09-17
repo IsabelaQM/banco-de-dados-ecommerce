@@ -1,6 +1,6 @@
 <h1> Projeto Conceitual de Banco de Dados (E-commerce) </h1>
 
-O projeto conceitual foi desenvolvido baseado em sites que comercializam produtos através dos próprios fornecedores e de terceiros. O refinamento foi feito baseado nas seguintes premissas:
+O projeto conceitual foi desenvolvido baseado em sites que comercializam produtos através dos próprios fornecedores e de terceiros. O refinamento foi feito levando em consideração as seguintes premissas:
 
 - Os clientes podem ser classificados em pessoas físicas ou jurídicas, mas um cliente não pode conter as duas informações.
 
